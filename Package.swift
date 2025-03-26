@@ -18,7 +18,7 @@ let package = Package(
     dependencies: [
         .package(
             url: "https://github.com/tadija/AEXML",
-            from: "4.6.0"
+            from: "4.7.0"
         ),
         .package(
             url: "https://github.com/marmelroy/Zip",
