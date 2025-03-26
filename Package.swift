@@ -17,11 +17,11 @@ let package = Package(
     
     dependencies: [
         .package(
-            url: "https://github.com/tadija/AEXML",
+            url: "https://github.com/tadija/AEXML.git",
             from: "4.7.0"
         ),
         .package(
-            url: "https://github.com/marmelroy/Zip",
+            url: "https://github.com/marmelroy/Zip.git",
             from: "2.1.1"
         )
     ],
